@@ -43,6 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddCutlet.cs" />
+    <Compile Include="AddSalad.cs" />
+    <Compile Include="BaseBurger.cs" />
+    <Compile Include="BigMac.cs" />
+    <Compile Include="Burger.cs" />
+    <Compile Include="Cheeseburger.cs" />
+    <Compile Include="Chickenburger.cs" />
+    <Compile Include="ConfigBurger.cs" />
+    <Compile Include="CreatePrice.cs" />
+    <Compile Include="Hamburger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
